@@ -5,9 +5,9 @@
 
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
-Recode - The Jo Bot
-
-Jangan dijual kontol!!!
+Recode - The Jo Bot WKKKK
+WKKKK 
+Jangan dijual WKWK!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
 Kalau cuma rename anak esde jg bisa.
 Rename sewajarnyalah!!!
@@ -24,7 +24,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THEJO307/jo-private)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/koekoe11/jo-private)
 
 | BuildPack | LINK |
 |--------|--------|
